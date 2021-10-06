@@ -1,0 +1,6 @@
+[submodule "pip4-back"]
+	path = pip4-back
+	url = https://github.com/kekens/pip4-back
+[submodule "pip4-front"]
+	path = pip4-front
+	url = https://github.com/kekens/pip4-front
